@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    margin:auto
+    
+  }
+
+  .imgcenter {
+    display: block;
+    margin: auto;
+    text-align: center;
+ 
+}
+
+ body {
+font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    text-align: left;
+    width: 40%;
+    margin: auto;
+
+  }
